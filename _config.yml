@@ -3,10 +3,10 @@
 #------------------------------------------------------------
 
 # Which carpentry is this ("swc", "dc", or "lc")?
-carpentry: "swc"
+carpentry: "dc"
 
 # Overall title for pages.
-title: "Workshop Title"
+title: "Kyle's Carpentry Workshop"
 
 # Contact email address.
 email: lessons@software-carpentry.org
@@ -32,8 +32,8 @@ swc_pages: "https://swcarpentry.github.io"
 template_repo: "https://github.com/swcarpentry/styles"
 example_repo: "https://github.com/swcarpentry/lesson-example"
 example_site: "https://swcarpentry.github.com/lesson-example"
-workshop_repo: "https://github.com/swcarpentry/workshop-template"
-workshop_site: "https://swcarpentry.github.io/workshop-template"
+workshop_repo: "https://github.com/ChemiKyle/2018-03-06-chemikyle"
+workshop_site: "https://chemikyle.github.io/2018-03-06-chemikyle"
 training_site: "https://swcarpentry.github.io/instructor-training"
 swc_installer: "https://github.com/swcarpentry/windows-installer/releases/download/v0.3/SWCarpentryInstaller.exe"
 
